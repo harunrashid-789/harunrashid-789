@@ -4,7 +4,6 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 
-<a target="_blank" href="https://img.ge/en/7P9n3dkMWy3tImo"><img  src="https://img.ge/i/1VXZq12.png" alt="file_00000000a95c8208b450598ed125967c.png"/></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harunrashid-789&label=Profile%20views&color=0e75b6&style=flat" alt="harunrashid-789" /> </p>
@@ -37,7 +36,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harunrashid-789&" alt="harunrashid-789" /></p>
+
 
 
 
